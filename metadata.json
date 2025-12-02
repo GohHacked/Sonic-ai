@@ -1,0 +1,5 @@
+{
+  "name": "AI Sonic Remix",
+  "description": "Upload any audio track and let Gemini AI generate a creative audio remix and accompaniment.",
+  "requestFramePermissions": []
+}
